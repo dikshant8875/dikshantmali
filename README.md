@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, I'm Dikshant Mali</h1>
-<h3 align="center">Student At Poornima Institute Of Engineering And Technology</h3>
+<h1 align="center">Hello 👋, I'm Dikshant Mali</h1>
+<h3 align="center">Devops Enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
